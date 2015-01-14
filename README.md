@@ -1,4 +1,2 @@
-# html5game.co.kr
-base file add
-
+# html5game 
 html5 webGL blog 
